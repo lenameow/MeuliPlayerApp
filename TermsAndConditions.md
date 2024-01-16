@@ -51,4 +51,8 @@ These terms and conditions are effective since 2024-01-15.
 
 **Contact Us**
 
-If you have any questions or suggestions about the Terms and Conditions, do not hesitate to contact us at lenahudev@gmail.com.
+If you have any questions or suggestions about the Terms and Conditions, do not hesitate to leave a message at
+
+X: @MeuliStudio
+<br>
+Red (Xiaohongshu): MEULI STUDIO
