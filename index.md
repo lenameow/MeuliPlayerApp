@@ -7,8 +7,7 @@ Meuli Media Player is an offline player that plays local music & videos by playl
 
 [Third Party Library Usage - Legal Notices](LegalNotices.md).
 
-### If you need to report problems or recommend features, feel free to write on our social domains: 
+### Feel free to write us if you have any questions or suggestions:
 
-X: @MeuliStudio
-<br>
-Red (Xiaohongshu): MEULI STUDIO
+Email: lenahudev@gmail.com
+
